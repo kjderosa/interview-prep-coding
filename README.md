@@ -13,4 +13,8 @@ just where I'm reviewing interview data structures, algorithms, and questions
 #### data structures:
 - array              python documentation for [arrays](https://docs.python.org/3/library/array.html)
 - linkedlist         John Shiver's [Implementing a singly linked list in Python](https://www.codefellows.org/blog/implementing-a-singly-linked-list-in-python)
+- queue              python documentation for [collections.deque](https://docs.python.org/3.1/library/collections.html#collections.deque)
 
+#### errors along the way
+
+pycharm github 403 when trying to push, followed temlrbek's [response](https://www.digitalocean.com/community/questions/github-https-push-403-error)

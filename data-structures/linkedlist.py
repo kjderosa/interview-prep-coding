@@ -75,6 +75,7 @@ class LinkedList(object):
 # insert (n); traverse list and insert at end
 # delete (worst case, n); traverse list and remove final element
 # search (worst case, n); traverse list and find at final element
-# sorted search (worst case, log-n); still must traverse entire list, unless indexed
-# sort (n^2),  insertion or selection sort
+# sorted search (worst case, n); still must traverse entire list,
+#                               unless indexed O(logn) binary search
+# sort (n^2),  insertion or selection sort, unless indexed
 # sort (n lg n), if indexed, merge sort
