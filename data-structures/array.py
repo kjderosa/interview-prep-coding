@@ -67,3 +67,7 @@ b.fromstring('test')
 # search (worst case, n); look at each value
 # sorted search (worst case, log-n); binary search
 # sort (n lg n), merge sort
+
+
+# space
+# n elements

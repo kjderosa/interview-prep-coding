@@ -79,3 +79,6 @@ class LinkedList(object):
 #                               unless indexed O(logn) binary search
 # sort (n^2),  insertion or selection sort, unless indexed
 # sort (n lg n), if indexed, merge sort
+
+# space
+# n elements, with n pointers; (2n if pointers to and from)
